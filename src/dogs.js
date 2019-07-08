@@ -1,7 +1,10 @@
 const dogs = [{
+
   id:1, 
-  name:'Tommy', 
-  image:"https://pixabay.com/photos/puppy-dog-pet-animal-cute-white-1903313/"
+  name:'Tommy',
+  image:"https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313_960_720.jpg" 
+  
+  // image:"https://pixabay.com/photos/puppy-dog-pet-animal-cute-white-1903313/"
 },{
   id:2, 
   name: "Speedy",
